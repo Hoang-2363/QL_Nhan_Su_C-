@@ -1,0 +1,171 @@
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\QL_Nhân_Sự.exe.config
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\QL_Nhân_Sự.exe
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\QL_Nhân_Sự.pdb
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.AssemblyReference.cache
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frm_Dang_Nhap.resources
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Properties.Resources.resources
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.GenerateResource.cache
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.CoreCompileInputs.cache
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.exe
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.pdb
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frm_Menu.resources
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_NV.resources
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_PB.resources
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_TK.resources
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_TL.resources
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_KP.resources
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmBC_TP.resources
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmBC_TL.resources
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.Shared.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\stdole.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.CopyComplete
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\AxShockwaveFlashObjects.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\ShockwaveFlashObjects.dll
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Form1.resources
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Form2.resources
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Form3.resources
+D:\C#\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Form4.resources
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\QL_Nhân_Sự.exe.config
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\QL_Nhân_Sự.exe
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\QL_Nhân_Sự.pdb
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\AxShockwaveFlashObjects.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.Shared.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\ShockwaveFlashObjects.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\stdole.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.AssemblyReference.cache
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_TK.resources
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frm_Menu.resources
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frm_Dang_Nhap.resources
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_NV.resources
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_PB.resources
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_TL.resources
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_KP.resources
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmBC_TP.resources
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmBC_TL.resources
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Form1.resources
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Form2.resources
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Form3.resources
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Form4.resources
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Properties.Resources.resources
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.GenerateResource.cache
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.CoreCompileInputs.cache
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.CopyComplete
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.exe
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.pdb
+C:\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.ResolveComReference.cache
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\QL_Nhân_Sự.exe.config
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\QL_Nhân_Sự.exe
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\QL_Nhân_Sự.pdb
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\AxShockwaveFlashObjects.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.Shared.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\ShockwaveFlashObjects.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\stdole.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.AssemblyReference.cache
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.ResolveComReference.cache
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_TK.resources
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frm_Menu.resources
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frm_Dang_Nhap.resources
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_NV.resources
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_PB.resources
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_TL.resources
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_KP.resources
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmBC_TP.resources
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmBC_TL.resources
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Form1.resources
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Form2.resources
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Form3.resources
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Form4.resources
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Properties.Resources.resources
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.GenerateResource.cache
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.CoreCompileInputs.cache
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.CopyComplete
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.exe
+D:\do\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.pdb
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\QL_Nhân_Sự.exe.config
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\QL_Nhân_Sự.exe
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\QL_Nhân_Sự.pdb
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\AxShockwaveFlashObjects.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.Shared.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\ShockwaveFlashObjects.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\stdole.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.AssemblyReference.cache
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.ResolveComReference.cache
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_TK.resources
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frm_Menu.resources
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frm_Dang_Nhap.resources
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_NV.resources
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_PB.resources
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_TL.resources
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmQL_KP.resources
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmBC_TP.resources
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.frmBC_TL.resources
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Form1.resources
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Form2.resources
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Form3.resources
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Form4.resources
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.Properties.Resources.resources
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.GenerateResource.cache
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.CoreCompileInputs.cache
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.csproj.CopyComplete
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.exe
+D:\BT_Lớn\QL_Nhân_Sự (1)\QL_Nhân_Sự (1)\QL_Nhân_Sự\QL_Nhân_Sự\obj\Debug\QL_Nhân_Sự.pdb
